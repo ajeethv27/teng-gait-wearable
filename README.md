@@ -22,6 +22,16 @@ Clinical gait analysis takes place in a lab and captures a short snapshot. An es
 
 This project turns an ordinary shoe insole into a gait sensor that **powers its own sensing**: a triboelectric nanogenerator (TENG) converts the mechanical energy of each footstep into the measured signal.
 
+## The built prototype
+
+<p align="center">
+  <img src="docs/proto_teng_sensor.jpg" alt="Hand-fabricated TENG sensor" width="52%">
+  &nbsp;
+  <img src="docs/proto_insole.jpg" alt="TENG sensor integrated into the heel of a shoe insole" width="27%">
+</p>
+
+The hand-fabricated sensor (left): a Kapton-covered copper top electrode over the PDMS dielectric and a PCB-mounted bottom electrode. It was then sealed into the heel of a right insole (right) and worn by 12 participants for 84 recorded trials.
+
 ## Results at a glance
 
 | | |
